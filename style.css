@@ -1,0 +1,68 @@
+* {
+margin: 0%;
+padding:0% ;
+
+}
+
+.reseau {  
+position: absolute; 
+bottom: 30px;
+left: 30px;
+color: white;
+}
+
+.bloc { 
+display: inline-block;
+width: 23%;
+margin: 1%;
+text-align: center;
+} 
+
+.bloc i { 
+font-size: 50px;
+} 
+
+
+.col-6 span {  
+background-color: black;
+padding: 2px;
+border: 1px solid;
+color: white;
+
+} 
+
+.row .col-6 { 
+background-color:gainsboro;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+} 
+
+.col .img {     
+display: inline-block;
+
+} 
+
+.col-2 {  
+padding-top: 30px;
+padding-bottom: 30px;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-right: 70px;
+width: 20%;
+}
+
+#img .col-2 { 
+margin: 10px;
+padding: 20px;
+height: 40vh;
+}
+
+
+
+
+
+
+
